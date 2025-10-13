@@ -8,4 +8,3 @@ int main() {
     cout << nombre;
     return 0;
 }
-cpp;
