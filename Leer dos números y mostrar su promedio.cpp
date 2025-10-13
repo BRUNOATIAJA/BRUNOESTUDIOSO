@@ -7,4 +7,3 @@ int main() {
     cout << (a + b) / 2;
     return 0;
 }
-cpp;
