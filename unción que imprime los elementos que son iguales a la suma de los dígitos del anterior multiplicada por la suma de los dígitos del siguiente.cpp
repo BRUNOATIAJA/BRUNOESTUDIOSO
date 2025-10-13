@@ -19,4 +19,3 @@ void imprimirSandwichDigitos(int arr[], int n) {
             cout << arr[i] << " ";
     }
 }
-.cpp;
