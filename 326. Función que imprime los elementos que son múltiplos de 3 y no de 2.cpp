@@ -6,4 +6,3 @@ void imprimirMultiplos3No2(int arr[], int n) {
         if (arr[i] % 3 == 0 && arr[i] % 2 != 0)
             cout << arr[i] << " ";
 }
-.cpp;
