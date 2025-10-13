@@ -8,4 +8,3 @@ int main() {
     cout << sqrt(n);
     return 0;
 }
-cpp;
