@@ -8,4 +8,3 @@ int main() {
     cout << scientific << num;
     return 0;
 }
-cpp;
