@@ -6,4 +6,3 @@ float promedio(int arr[], int n) {
     for (int i = 0; i < n; i++) suma += arr[i];
     return suma / n;
 }
-.cpp;
