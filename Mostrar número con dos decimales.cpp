@@ -8,4 +8,3 @@ int main() {
     cout << fixed << setprecision(2) << num;
     return 0;
 }
-cpp;
