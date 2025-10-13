@@ -7,4 +7,3 @@ int main() {
     cout << minutos * 60;
     return 0;
 }
-cpp;
