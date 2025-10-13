@@ -7,4 +7,3 @@ int contarMenores5(int arr[], int n) {
         if (arr[i] < 5) count++;
     return count;
 }
-.cpp;
