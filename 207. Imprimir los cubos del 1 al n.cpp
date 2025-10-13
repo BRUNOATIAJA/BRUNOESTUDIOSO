@@ -8,4 +8,3 @@ int main() {
         cout << i * i * i << " ";
     return 0;
 }
-.ccp;
