@@ -7,4 +7,3 @@ int main() {
     cout << horas * 60;
     return 0;
 }
-cpp;
