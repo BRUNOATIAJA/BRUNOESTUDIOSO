@@ -8,4 +8,4 @@ int main() {
     cout << base * altura;
     return 0;
 }
-CPP;
+
