@@ -8,4 +8,4 @@ int main() {
     cout << x * y;
     return 0;
 }
-cpp;
+
