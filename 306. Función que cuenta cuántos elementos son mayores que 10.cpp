@@ -7,4 +7,3 @@ int contarMayores10(int arr[], int n) {
         if (arr[i] > 10) count++;
     return count;
 }
-.cpp;
