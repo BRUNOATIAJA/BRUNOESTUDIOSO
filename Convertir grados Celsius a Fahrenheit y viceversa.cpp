@@ -11,4 +11,3 @@ elif opcion == 'f':
     print(f"{temp}°C son {resultado:.2f}°F")
 else:
     print("Opción no válida.")
-cpp;
