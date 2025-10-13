@@ -7,4 +7,3 @@ int main() {
     cout << (n < 0 ? "Negativo" : "No negativo");
     return 0;
 }
-cpp;
