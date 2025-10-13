@@ -7,5 +7,3 @@ int main() {
     cout << min(a, b);
     return 0;
 }
-cpp;
-
