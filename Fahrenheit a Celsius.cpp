@@ -8,4 +8,3 @@ int main() {
     cout << (fahrenheit - 32) * 5/9;
     return 0;
 }
-cpp;
