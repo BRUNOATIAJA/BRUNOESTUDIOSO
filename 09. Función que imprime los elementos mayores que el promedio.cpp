@@ -7,4 +7,4 @@ int contarCeros(int arr[], int n) {
         if (arr[i] == 0) count++;
     return count;
 }
-.cpp;
+
