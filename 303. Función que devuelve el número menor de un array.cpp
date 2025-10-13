@@ -7,4 +7,3 @@ int menor(int arr[], int n) {
         if (arr[i] < min) min = arr[i];
     return min;
 }
-.cpp;
