@@ -7,4 +7,3 @@ int main() {
     cout << distancia / tiempo;
     return 0;
 }
-cpp;
