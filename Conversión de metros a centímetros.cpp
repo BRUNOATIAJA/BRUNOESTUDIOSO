@@ -7,4 +7,3 @@ int main() {
     cout << metros * 100;
     return 0;
 }
-cpp;
