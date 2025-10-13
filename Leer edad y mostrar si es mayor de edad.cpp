@@ -7,4 +7,3 @@ int main() {
     cout << (edad >= 18 ? "Mayor de edad" : "Menor de edad");
     return 0;
 }
-cpp;
