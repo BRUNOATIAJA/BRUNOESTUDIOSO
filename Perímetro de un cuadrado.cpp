@@ -7,4 +7,3 @@ int main() {
     cout << 4 * lado;
     return 0;
 }
-cpp;
