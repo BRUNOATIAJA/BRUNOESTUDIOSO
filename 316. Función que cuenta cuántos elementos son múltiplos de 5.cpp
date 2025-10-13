@@ -7,4 +7,3 @@ int contarMultiplos5(int arr[], int n) {
         if (arr[i] % 5 == 0) count++;
     return count;
 }
-.cpp;
