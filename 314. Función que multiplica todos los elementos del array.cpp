@@ -6,4 +6,3 @@ int producto(int arr[], int n) {
     for (int i = 0; i < n; i++) prod *= arr[i];
     return prod;
 }
-.cpp;
