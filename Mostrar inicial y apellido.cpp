@@ -8,4 +8,3 @@ int main() {
     cout << inicial << ". " << apellido;
     return 0;
 }
-cpp;
