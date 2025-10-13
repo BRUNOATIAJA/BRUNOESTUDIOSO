@@ -9,4 +9,3 @@ int main() {
     cout << "Nombre: " << nombre << ", Edad: " << edad;
     return 0;
 }
-cpp;
