@@ -8,4 +8,3 @@ int main() {
     cout << (celsius * 9/5) + 32;
     return 0;
 }
-cpp;
