@@ -9,5 +9,3 @@ int main() {
     cout << M_PI * radio * radio;
     return 0;
 }
-
-cpp;
