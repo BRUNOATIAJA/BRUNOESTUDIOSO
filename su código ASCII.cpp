@@ -6,4 +6,3 @@ int main() {
     cout << int(c);
     return 0;
 }
-cpp;
