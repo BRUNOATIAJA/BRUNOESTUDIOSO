@@ -7,4 +7,3 @@ int main() {
     cout << cm / 100;
     return 0;
 }
-cpp;
