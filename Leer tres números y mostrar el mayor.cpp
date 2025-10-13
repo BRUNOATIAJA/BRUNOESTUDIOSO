@@ -7,4 +7,3 @@ int main() {
     cout << max(a, max(b, c));
     return 0;
 }
-cpp;
