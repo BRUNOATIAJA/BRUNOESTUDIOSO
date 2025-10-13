@@ -7,4 +7,3 @@ int main() {
     cout << (base * altura) / 2;
     return 0;
 }
-cpp;
