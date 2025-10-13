@@ -7,4 +7,3 @@ int main() {
     cout << (n % 5 == 0 ? "Múltiplo de 5" : "No es múltiplo de 5");
     return 0;
 }
-cpp;
