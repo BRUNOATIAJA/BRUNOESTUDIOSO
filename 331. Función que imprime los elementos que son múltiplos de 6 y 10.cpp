@@ -6,4 +6,3 @@ void imprimirMultiplos6y10(int arr[], int n) {
         if (arr[i] % 6 == 0 && arr[i] % 10 == 0)
             cout << arr[i] << " ";
 }
-.cpp;
